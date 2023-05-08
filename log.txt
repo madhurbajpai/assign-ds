@@ -1,0 +1,37 @@
+S.No.	Date		Program Name			Week		    Folder				        Line of code
+1.	11/01/2023	Bubble Sort			    	Week1and2	    madhur/Desktop/ds/week12			46
+2.	12/01/2023	Selection Sort		    	Week1and2	    madhur/Desktop/ds/week12			91
+3.	13/01/2023	Merge Sort			    	Week1and2	    madhur/Desktop/ds/week12			171
+4.	13/01/2023	Quick Sort			    	Week1and2	    madhur/Desktop/ds/week12			119
+5.	14/01/2023	Radix Sort			    	Week1and2	    madhur/Desktop/ds/week12			63
+6.	16/01/2023	Buckle Sort			    	Week1and2	    madhur/Desktop/ds/week12			70
+7.	24/01/2023	Stack				    	Week3and4	    madhur/Desktop/ds/week34			91
+8.	24/01/2023	Queues			    	Week3and4	    madhur/Desktop/ds/week34			88
+9.	24/012023	Circular Queues		    	Week3and4	    madhur/Desktop/ds/week34			148
+10.	25/01/2023	Polynomial Addition	    	Week3and4	    madhur/Desktop/ds/week34			81
+11.	25/01/2023	Polynomial Multipli.		Week3and4	    madhur/Desktop/ds/week34			97
+12.	26/01/2023	Sparse matrix		    	Week3and4	    madhur/Desktop/ds/week34			197
+13.	28/01/2023	Cicular Linked List	    	Week5		    madhur/Desktop/ds/week5			138
+14.	01/02/2023	Singly Linked List	    	Week5		    madhur/Desktop/ds/week5			247
+15.	01/02/2023	Doubly Linked List	    	Week5		    madhur/Desktop/ds/week5			226
+16.	06/02/2023	Binary tree traversal		Week6		    madhur/Desktop/ds/week6			128
+17.	18/02/2023	Binary tree (iteration)		Week6		    madhur/Desktop/ds/week6			155
+18.	14/02/2023	Heap Sort			    	Week6		    madhur/Desktop/ds/week6			71
+20.	21/02/2023	Binary Search Tree		Week7		    madhur/Desktop/ds/week7			146
+21.	21/02/2023	Binary Tree				Week7		    madhur/Desktop/ds/week7			124
+22.	12/03/2023	AVL Trees			    	Week 10	    madhur/Desktop/ds/week10			188
+23. 	13/03/2023	Red Black Tree  		    	Week 10	    madhur/Desktop/ds/week10			229
+24.	16/03/2023	Splay Tree			    	Week 10	    madhur/Desktop/ds/week10			133
+25.	17/03/2023	Hash Table			    	Week 10	    madhur/Desktop/ds/week10			141
+26.	17/03/2023  2-3 Tree                	Week 10         madhur/Desktop/ds/week10        	132
+27. 	17/03/2023  2-3-4 Tree                  	Week 10         madhur/Desktop/ds/week10        	178
+28.	19/03/2023	Threaded Binary Tree		Week 11 and 12  madhur/Desktop/ds/week11and12		139
+29.	23/03/2023	Tournament Tree		    	Week 11 and 12  madhur/Desktop/ds/week11and12		56
+30.	28/03/2023	B+ Tree			      Week 11 and 12  madhur/Desktop/ds/week11and12		592
+31.	11/04/2023	Breadth First Tree		Week 14 and 15  madhur/Desktop/ds/week14and15		54
+32.	11/04/2023	Depth First Tree			Week 14 and 15  madhur/Desktop/ds/week14and15		52
+33.	18/04/2023  Minimum Spanning Tree		Week 14 and 15  madhur/Desktop/ds/week14and15		111
+34.	18/04/2023  Topological Sort			Week 14 and 15  madhur/Desktop/ds/week14and15		100
+35.	25/04/2023	Order Statistics Tree		Week 16 and 17  madhur/Desktop/ds/week16and17		102
+36.	02/05/2023	Birthday Program			Week 16 and 17  madhur/Desktop/ds/week16and17		92
+37.	25/04/2023	Expenses Program			Week 16 and 17  madhur/Desktop/ds/week16and17		99
